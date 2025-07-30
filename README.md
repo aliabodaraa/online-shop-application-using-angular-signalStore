@@ -1,11 +1,11 @@
 # The Signals Shop - Angular E-Commerce App
 
 <div align="center">
-  <img src="shop1.png" alt="Shop Homepage" width="400"/>
-  <img src="shop2.png" alt="Product Listing & Cart" width="400"/>
+  <img src="./public/shop1.png" alt="Shop Homepage" width="400"/>
+  <img src="./public/shop2.png" alt="Product Listing & Cart" width="400"/>
 </div>
 
-## 🚀 Project Overview
+## 🚀 Project Overviews
 
 The Signals Shop is a modern Angular e-commerce application showcasing state-of-the-art signal management tools with a clean, reactive UI. Built with Angular's latest features including SignalStore for state management.
 
